@@ -1,7 +1,7 @@
 
 # SendRec_Socket
 #### *SendRecV0.1*
-局域网Socket信息收发程序
+局域网Socket信息收发程序-基于Windows平台
 
 ---
 ## 该版本实现：
